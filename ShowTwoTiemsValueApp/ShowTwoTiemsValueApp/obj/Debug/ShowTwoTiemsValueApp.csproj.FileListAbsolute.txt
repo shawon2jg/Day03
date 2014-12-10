@@ -1,0 +1,9 @@
+F:\Shawon\FTFL Project\ShowTwoTiemsValueApp\ShowTwoTiemsValueApp\bin\Debug\ShowTwoTiemsValueApp.exe.config
+F:\Shawon\FTFL Project\ShowTwoTiemsValueApp\ShowTwoTiemsValueApp\obj\Debug\ShowTwoTiemsValueApp.csprojResolveAssemblyReference.cache
+F:\Shawon\FTFL Project\ShowTwoTiemsValueApp\ShowTwoTiemsValueApp\obj\Debug\ShowTwoTiemsValueApp.Form1.resources
+F:\Shawon\FTFL Project\ShowTwoTiemsValueApp\ShowTwoTiemsValueApp\obj\Debug\ShowTwoTiemsValueApp.Properties.Resources.resources
+F:\Shawon\FTFL Project\ShowTwoTiemsValueApp\ShowTwoTiemsValueApp\obj\Debug\ShowTwoTiemsValueApp.csproj.GenerateResource.Cache
+F:\Shawon\FTFL Project\ShowTwoTiemsValueApp\ShowTwoTiemsValueApp\bin\Debug\ShowTwoTiemsValueApp.exe
+F:\Shawon\FTFL Project\ShowTwoTiemsValueApp\ShowTwoTiemsValueApp\bin\Debug\ShowTwoTiemsValueApp.pdb
+F:\Shawon\FTFL Project\ShowTwoTiemsValueApp\ShowTwoTiemsValueApp\obj\Debug\ShowTwoTiemsValueApp.exe
+F:\Shawon\FTFL Project\ShowTwoTiemsValueApp\ShowTwoTiemsValueApp\obj\Debug\ShowTwoTiemsValueApp.pdb
